@@ -1,0 +1,14 @@
+[
+  {
+    "beanName":"dancer",
+    "beanClassName":"com.redmaple.spring.ioc.Dancer"
+  },
+  {
+    "beanName":"arm",
+    "beanClassName":"com.redmaple.spring.ioc.Arm"
+  },
+  {
+    "beanName":"leg",
+    "beanClassName":"com.redmaple.spring.ioc.Leg"
+  }
+]
