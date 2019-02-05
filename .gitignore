@@ -1,0 +1,12 @@
+
+.DS_Store
+.idea
+*.iml
+
+.idea/
+aop/aop.iml
+aop/src/main/resources/
+aop/target/
+framework.iml
+ioc/ioc.iml
+ioc/target/
